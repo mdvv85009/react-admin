@@ -1,0 +1,122 @@
+{
+    "result": [
+        {
+            "descriptions": [
+                "I am the bottom",
+                "私は底です",
+                "나는 바닥이다",
+                "我是垫底",
+                "我是墊底"
+            ],
+            "end_time": 1671983999,
+            "id": 1,
+            "is_all_player": false,
+            "is_limit": false,
+            "reward_list": [
+                {
+                    "object": {
+                        "count": 1,
+                        "item_id": 4
+                    },
+                    "object_type": 3
+                },
+                {
+                    "object": {
+                        "count": 1,
+                        "item_id": 2
+                    },
+                    "object_type": 3
+                },
+                {
+                    "object": {
+                        "count": 1,
+                        "item_id": 3001
+                    },
+                    "object_type": 3
+                },
+                {
+                    "object": {
+                        "count": 1,
+                        "item_id": 2
+                    },
+                    "object_type": 1
+                },
+                {
+                    "object": {
+                        "count": 1,
+                        "item_id": 30001
+                    },
+                    "object_type": 4
+                }
+            ],
+            "start_time": 1671811200,
+            "titles": [
+                "test",
+                "テスト",
+                "테스트",
+                "测试",
+                "測試"
+            ]
+        },
+        {
+            "descriptions": [
+                "Update Maintenance Delay Compensation",
+                "更新メンテナンス遅延補償",
+                "업데이트 점검 지연 보상",
+                "更新维护延迟补偿",
+                "更新維護延遲補償"
+            ],
+            "end_time": 1671983999,
+            "id": 2,
+            "is_all_player": true,
+            "is_limit": true,
+            "reward_list": [
+                {
+                    "object": {
+                        "count": 100,
+                        "item_id": 4
+                    },
+                    "object_type": 3
+                },
+                {
+                    "object": {
+                        "count": 1,
+                        "item_id": 1001
+                    },
+                    "object_type": 3
+                }
+            ],
+            "start_time": 1671811200,
+            "titles": [
+                "Update Maintenance Delay Compensation",
+                "更新メンテナンス遅延補償",
+                "업데이트 점검 지연 보상",
+                "更新维护延迟补偿",
+                "更新維護延遲補償"
+            ]
+        },
+        {
+            "descriptions": [
+                "I am the bottom",
+                "私は底です",
+                "나는 바닥이다",
+                "我是垫底",
+                "我是墊底"
+            ],
+            "end_time": 1672934400,
+            "id": 3,
+            "is_all_player": true,
+            "is_limit": false,
+            "reward_list": [],
+            "start_time": 1672761600,
+            "titles": [
+                "test",
+                "テスト",
+                "테스트",
+                "测试",
+                "測試"
+            ]
+        }
+    ],
+    "status": 200
+}
